@@ -71,4 +71,4 @@ Toxic
 
 ## Credits ✨
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Laky](https://github.com/Laky-64) for [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [kannu](https://github.com/devellyf) for [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
